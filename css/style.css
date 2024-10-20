@@ -1,0 +1,79 @@
+h1{ 
+	border: 2px solid red; 
+	background:cornflowerblue ;
+	text-align:center ;
+	font-size: 50px;
+
+}
+h2{
+	background: greenyellow ;
+	font-size: 45px;
+	text-align: center;
+
+
+}
+
+h3{
+	border: 6px solid skyblue;
+	background: cornflowerblue;
+	text-align: center;
+	font-size: 45px;
+}
+
+	h5{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	h4{ border: 3px solid seagreen;
+	background-color:white ;
+	text-decoration-color:black ;
+	font-size: 45px;
+	text-align: center
+}
+
+
+p{
+	font-size: 40px;
+	background-color: cornflowerblue;
+}
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+	display:block ;
+	margin-left:auto ;
+	margin-right: auto;
+}	
+
+
